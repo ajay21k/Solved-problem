@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bf8aecd48c030ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "dadece4851146f46",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Two Sum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dadece4851146f46",
+  "active": "9c5b4e2394e361d8",
   "lastOpenFiles": [
     "Untitled.md",
     "Leetcode/Easy/Two Sum.md",

@@ -130,7 +130,7 @@ Output:
 
 ## 🔹 Brute Force vs Optimal
 
-|Approach|Time Complexity|
-|---|---|
-|Brute Force|O(n²)|
-|HashMap|O(n) ✅|
+| Approach    | Time Complexity |
+| ----------- | --------------- |
+| Brute Force | O(n²)           |
+| HashMap     | O(n) ✅          |
