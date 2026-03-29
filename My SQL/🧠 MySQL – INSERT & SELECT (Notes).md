@@ -1,4 +1,4 @@
-# 🧠 MySQL – INSERT & SELECT (Notes)
+
 
 ---
 
