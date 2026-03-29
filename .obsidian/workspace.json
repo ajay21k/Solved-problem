@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Medium/189. Rotate Array.md",
+                "file": "My SQL/🧠 MySQL – Complete Basics Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "189. Rotate Array"
+              "title": "🧠 MySQL – Complete Basics Notes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Medium/189. Rotate Array.md",
+                "file": "My SQL/🧠 MySQL – Complete Basics Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 189. Rotate Array"
+              "title": "Backlinks for 🧠 MySQL – Complete Basics Notes"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "dadece4851146f46",
   "lastOpenFiles": [
-    "Leetcode/Easy/121. Best Time to Buy and Sell Stock.md",
     "Leetcode/Medium/189. Rotate Array.md",
+    "My SQL/🧠 MySQL – Complete Basics Notes.md",
+    "My SQL",
+    "Leetcode/Easy/121. Best Time to Buy and Sell Stock.md",
     "Leetcode/Easy/26. Remove Duplicates from Sorted Array.md",
     "Leetcode/Easy/Majority Element.md",
     "Leetcode/Easy/Move Zeroes.md",
