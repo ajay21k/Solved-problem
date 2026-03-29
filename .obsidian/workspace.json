@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My SQL/🧠 MySQL – Complete Basics Notes.md",
+                "file": "My SQL/INSERT AND FETCH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧠 MySQL – Complete Basics Notes"
+              "title": "INSERT AND FETCH"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My SQL/🧠 MySQL – Complete Basics Notes.md",
+                "file": "My SQL/INSERT AND FETCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🧠 MySQL – Complete Basics Notes"
+              "title": "Backlinks for INSERT AND FETCH"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "dadece4851146f46",
   "lastOpenFiles": [
-    "Leetcode/Medium/189. Rotate Array.md",
     "My SQL/🧠 MySQL – Complete Basics Notes.md",
+    "My SQL/INSERT AND FETCH.md",
+    "Leetcode/Medium/189. Rotate Array.md",
     "My SQL",
     "Leetcode/Easy/121. Best Time to Buy and Sell Stock.md",
     "Leetcode/Easy/26. Remove Duplicates from Sorted Array.md",
