@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My SQL/🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS.md",
+                "file": "My SQL/📘 SQL Notes – Advanced Queries (Wildcard, Joins, Index, Subqueries).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS"
+              "title": "📘 SQL Notes – Advanced Queries (Wildcard, Joins, Index, Subqueries)"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "dadece4851146f46",
   "lastOpenFiles": [
-    "My SQL/🧠 MySQL – INSERT & SELECT (Notes).md",
-    "My SQL/🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS.md",
+    "My SQL/🧠 MySQL – Intermediate Notes (Update, Delete, Constraints, Transactions).md",
+    "My SQL/📘 SQL Notes – Advanced Queries (Wildcard, Joins, Index, Subqueries).md",
     "My SQL/🧠 MySQL – JOINS.md",
     "My SQL/🧠 MySQL –CONTRAINTS AND PRIMARY & FOREIGN KEY.md",
+    "My SQL/🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS.md",
     "My SQL/🧠 MySQL – Complete Basics Notes.md",
-    "My SQL/🧠 MySQL – Intermediate Notes (Update, Delete, Constraints, Transactions).md",
+    "My SQL/🧠 MySQL – INSERT & SELECT (Notes).md",
     "Leetcode/Medium/189. Rotate Array.md",
     "My SQL",
     "Leetcode/Easy/121. Best Time to Buy and Sell Stock.md",
