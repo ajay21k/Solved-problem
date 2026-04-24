@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My SQL/🧠Group By, Constraints, Procedures & Triggers.md",
+                "file": "Node JS/📂 Node.js Streams (File Handling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧠Group By, Constraints, Procedures & Triggers"
+              "title": "📂 Node.js Streams (File Handling)"
             }
           }
         ]
@@ -194,30 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c5b4e2394e361d8",
+  "active": "dadece4851146f46",
   "lastOpenFiles": [
-    "My SQL/🧠 MySQL – Complete Basics Notes.md",
+    "Node JS/🌐 Web Application Basics.md",
+    "Node JS/📂 Node.js Streams (File Handling).md",
+    "Core Java/📘 Java Reserved Words (Keywords & Literals).md",
+    "Node JS",
     "My SQL/🧠Group By, Constraints, Procedures & Triggers.md",
-    "My SQL/🧠 MySQL – JOINS.md",
-    "My SQL/📘 SQL Notes – Advanced Queries (Wildcard, Joins, Index, Subqueries).md",
-    "My SQL/🧠 MySQL – Intermediate Notes (Update, Delete, Constraints, Transactions).md",
-    "My SQL/🧠 MySQL –CONTRAINTS AND PRIMARY & FOREIGN KEY.md",
     "My SQL/🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS.md",
-    "My SQL/🧠 MySQL – INSERT & SELECT (Notes).md",
-    "Leetcode/Medium/189. Rotate Array.md",
-    "My SQL",
-    "Leetcode/Easy/121. Best Time to Buy and Sell Stock.md",
-    "Leetcode/Easy/26. Remove Duplicates from Sorted Array.md",
-    "Leetcode/Easy/Majority Element.md",
-    "Leetcode/Easy/Move Zeroes.md",
-    "Leetcode/Easy/Two Sum.md",
-    "Untitled.md",
-    "Leetcode/Medium",
-    "Leetcode/Hard",
-    "Leetcode/Easy",
-    "Welcome.md",
-    "Leetcode",
-    "remote-blog/Untitled.md",
-    "remote-blog"
+    "My SQL/🧠 MySQL –CONTRAINTS AND PRIMARY & FOREIGN KEY.md",
+    "SystemDesignVault/SystemDesignVault/01-Fundamentals/Key Concepts.md",
+    "SystemDesignVault/SystemDesignVault/01-Fundamentals/Networking Basics.md",
+    "SystemDesignVault/SystemDesignVault/{01-Fundamentals,02-Components,03-Distributed-Systems,04-Architecture,05-Monitoring,06-Case-Studies,07-Interview-Prep,.obsidian}",
+    "SystemDesignVault/SystemDesignVault/07-Interview-Prep/Interview Framework.md",
+    "SystemDesignVault/SystemDesignVault/07-Interview-Prep",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design YouTube.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design WhatsApp.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design URL Shortener.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Twitter.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Search Autocomplete.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Amazon.md",
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies",
+    "SystemDesignVault/SystemDesignVault/05-Monitoring/Observability.md",
+    "SystemDesignVault/SystemDesignVault/05-Monitoring",
+    "SystemDesignVault/SystemDesignVault/04-Architecture/Security.md",
+    "SystemDesignVault/SystemDesignVault/04-Architecture/Microservices vs Monolith.md",
+    "SystemDesignVault/SystemDesignVault/04-Architecture/API Design.md",
+    "SystemDesignVault/SystemDesignVault/04-Architecture",
+    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/Replication and Sharding.md",
+    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/High Availability.md",
+    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/CAP Theorem.md",
+    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems",
+    "SystemDesignVault/SystemDesignVault/02-Components/Storage Systems.md",
+    "SystemDesignVault/SystemDesignVault/02-Components/Rate Limiting.md",
+    "SystemDesignVault/SystemDesignVault/02-Components/Proxies.md",
+    "SystemDesignVault/SystemDesignVault/02-Components/Message Queues.md",
+    "SystemDesignVault/SystemDesignVault/02-Components",
+    "SystemDesignVault/SystemDesignVault/01-Fundamentals",
+    "SystemDesignVault/SystemDesignVault"
   ]
 }

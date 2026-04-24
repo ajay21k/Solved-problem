@@ -1,0 +1,43 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#fundamentals",
+      "color": { "a": 1, "rgb": 14701138 }
+    },
+    {
+      "query": "tag:#components",
+      "color": { "a": 1, "rgb": 4235519 }
+    },
+    {
+      "query": "tag:#distributed-systems",
+      "color": { "a": 1, "rgb": 16737843 }
+    },
+    {
+      "query": "tag:#case-study",
+      "color": { "a": 1, "rgb": 16711782 }
+    },
+    {
+      "query": "tag:#interview",
+      "color": { "a": 1, "rgb": 5636095 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 14,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1,
+  "close": false
+}
