@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Medium/📘 LONGEST PALINDROMIC SUBSTRING — REVISION NOTES.md",
+                "file": "AffordMed_Backend_Interview_Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 LONGEST PALINDROMIC SUBSTRING — REVISION NOTES"
+              "title": "AffordMed_Backend_Interview_Prep"
+            }
+          },
+          {
+            "id": "de5fb3453db2a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aptitude/Number System/Short cuts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Short cuts"
+            }
+          },
+          {
+            "id": "5fec369f15b1e68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +223,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dadece4851146f46",
+  "active": "5fec369f15b1e68e",
   "lastOpenFiles": [
-    "Node JS/🟢 Node.js Basics (Execution & Globals)/🟢 Node.js Basics (Execution & Globals).md",
+    "Aptitude/Number System/Short cuts.md",
+    "Module 1.md",
+    "Physics",
+    "Untitled.md",
+    "Aptitude/Number System",
+    "AffordMed_Backend_Interview_Prep.md",
+    "Aptitude",
+    "Node JS/Express JS/📦 Using Router.md",
+    "Node JS/Express JS/📄 1. Express Setup & Project Initialization.md",
     "Leetcode/Medium/📘 LONGEST PALINDROMIC SUBSTRING — REVISION NOTES.md",
+    "Node JS/Express JS",
+    "Node JS/🟢 Node.js Basics (Execution & Globals)/🟢 Node.js Basics (Execution & Globals).md",
     "Node JS/📂 Node.js Streams (File Handling)/📂 Create , Write and Copy (FS Module).md",
     "Node JS/📂 Node.js Streams (File Handling)/📂Node.js Streams (File Handling).md",
     "Node JS/📂 Node.js Streams (File Handling)",
@@ -221,16 +260,6 @@
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Amazon.md",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies",
     "SystemDesignVault/SystemDesignVault/05-Monitoring/Observability.md",
-    "SystemDesignVault/SystemDesignVault/05-Monitoring",
-    "SystemDesignVault/SystemDesignVault/04-Architecture/Security.md",
-    "SystemDesignVault/SystemDesignVault/04-Architecture/Microservices vs Monolith.md",
-    "SystemDesignVault/SystemDesignVault/04-Architecture/API Design.md",
-    "SystemDesignVault/SystemDesignVault/04-Architecture",
-    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/Replication and Sharding.md",
-    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/High Availability.md",
-    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems/CAP Theorem.md",
-    "SystemDesignVault/SystemDesignVault/03-Distributed-Systems",
-    "SystemDesignVault/SystemDesignVault/02-Components/Storage Systems.md",
-    "SystemDesignVault/SystemDesignVault/02-Components"
+    "SystemDesignVault/SystemDesignVault/04-Architecture/Security.md"
   ]
 }
