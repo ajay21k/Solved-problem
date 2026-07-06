@@ -223,12 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fec369f15b1e68e",
+  "active": "9c5b4e2394e361d8",
   "lastOpenFiles": [
-    "Aptitude/Number System/Short cuts.md",
-    "Module 1.md",
-    "Physics",
     "Untitled.md",
+    "test/Untitled.md",
+    "test/t1/Untitled.md",
+    "test/t1",
+    "Module 1.md",
+    "test",
+    "Aptitude/Number System/Short cuts.md",
+    "Physics",
     "Aptitude/Number System",
     "AffordMed_Backend_Interview_Prep.md",
     "Aptitude",
@@ -251,15 +255,11 @@
     "SystemDesignVault/SystemDesignVault/01-Fundamentals/Networking Basics.md",
     "SystemDesignVault/SystemDesignVault/{01-Fundamentals,02-Components,03-Distributed-Systems,04-Architecture,05-Monitoring,06-Case-Studies,07-Interview-Prep,.obsidian}",
     "SystemDesignVault/SystemDesignVault/07-Interview-Prep/Interview Framework.md",
-    "SystemDesignVault/SystemDesignVault/07-Interview-Prep",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design YouTube.md",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design WhatsApp.md",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design URL Shortener.md",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Twitter.md",
     "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Search Autocomplete.md",
-    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Amazon.md",
-    "SystemDesignVault/SystemDesignVault/06-Case-Studies",
-    "SystemDesignVault/SystemDesignVault/05-Monitoring/Observability.md",
-    "SystemDesignVault/SystemDesignVault/04-Architecture/Security.md"
+    "SystemDesignVault/SystemDesignVault/06-Case-Studies/Design Amazon.md"
   ]
 }
