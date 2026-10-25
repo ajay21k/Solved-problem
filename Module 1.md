@@ -80,11 +80,11 @@ A change in direction changes a vector, even if its magnitude remains the same.
 
 # 5. Distance vs Displacement
 
-|Distance|Displacement|
-|---|---|
-|Total path travelled|Shortest distance from start to end|
-|Scalar|Vector|
-|Never negative|Can be positive, negative, or zero|
+| Distance             | Displacement                        |
+| -------------------- | ----------------------------------- |
+| Total path travelled | Shortest distance from start to end |
+| Scalar               | Vector                              |
+| Never negative       | Can be positive, negative, or zero  |
 
 ### Example
 
@@ -257,12 +257,12 @@ Where:
 
 # 13. When to Use Which Formula?
 
-|Known|Use|
-|---|---|
-|u, a, t|Find v using v=u+atv=u+atv=u+at|
-|u, a, t|Find s using s=ut+12at2s=ut+\frac12at^2s=ut+21​at2|
-|u, v, a|Find s using v2=u2+2asv^2=u^2+2asv2=u2+2as|
-|u, v, t|Use s=(u+v)2ts=\frac{(u+v)}{2}ts=2(u+v)​t|
+| Known   | Use                                                |
+| ------- | -------------------------------------------------- |
+| u, a, t | Find v using v=u+atv=u+atv=u+at                    |
+| u, a, t | Find s using s=ut+12at2s=ut+\frac12at^2s=ut+21​at2 |
+| u, v, a | Find s using v2=u2+2asv^2=u^2+2asv2=u2+2as         |
+| u, v, t | Use s=(u+v)2ts=\frac{(u+v)}{2}ts=2(u+v)​t          |
 
 ---
 
