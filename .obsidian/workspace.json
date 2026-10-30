@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Year project Ideas/Multi-agent recommendation System/Base Papers.md",
+                "file": "DSA/Backtracking/# LeetCode 1415 – The k-th Lexicographical String of All Happy Strings of Length n.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base Papers"
+              "title": "# LeetCode 1415 – The k-th Lexicographical String of All Happy Strings of Length n"
             }
           }
         ],
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e449f5047a5c6e6a",
@@ -228,9 +227,14 @@
   },
   "active": "5fec369f15b1e68e",
   "lastOpenFiles": [
+    "Final Year project Ideas/Cybersecurity/Abstract.md",
+    "DSA/Backtracking/# LeetCode 1415 – The k-th Lexicographical String of All Happy Strings of Length n.md",
+    "DSA/Backtracking",
+    "DSA",
+    "Final Year project Ideas/Multi-agent recommendation System/Base Papers.md",
+    "Final Year project Ideas/Cybersecurity",
     "Aptitude/Number System/Short cuts.md",
     "AffordMed_Backend_Interview_Prep.md",
-    "Final Year project Ideas/Multi-agent recommendation System/Base Papers.md",
     "Final Year project Ideas/Pipeline/Solution.md",
     "Final Year project Ideas/Multi-agent recommendation System",
     "Final Year project Ideas/Pipeline/Problem Statement.md",
@@ -250,9 +254,6 @@
     "test/t1/Untitled.md",
     "test/t1",
     "test",
-    "Physics",
-    "Aptitude/Number System",
-    "Aptitude",
     "Node JS/Express JS/📦 Using Router.md",
     "Node JS/Express JS/📄 1. Express Setup & Project Initialization.md",
     "Leetcode/Medium/📘 LONGEST PALINDROMIC SUBSTRING — REVISION NOTES.md",
@@ -261,8 +262,6 @@
     "Node JS/📂 Node.js Streams (File Handling)/📂Node.js Streams (File Handling).md",
     "Node JS/🌐 Web Application Basics.md",
     "Core Java/📘 Java Reserved Words (Keywords & Literals).md",
-    "My SQL/🧠Group By, Constraints, Procedures & Triggers.md",
-    "My SQL/🧠BUILT-IN FUNCTIONS AND LOGICAL OPERATIONS.md",
-    "My SQL/🧠 MySQL –CONTRAINTS AND PRIMARY & FOREIGN KEY.md"
+    "My SQL/🧠Group By, Constraints, Procedures & Triggers.md"
   ]
 }
